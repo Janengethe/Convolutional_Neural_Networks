@@ -1,0 +1,3 @@
+## Convolutional Neural Networks (CNNs)
+
+Convolutional Neural Networks (CNNs) are a class of deep learning models specifically designed for tasks related to image processing and computer vision. CNNs are inspired by the structure and functioning of the human visual system. They consist of multiple layers designed to automatically and adaptively learn spatial hierarchies of features from input images.
